@@ -21,3 +21,12 @@ Học được:
 - Học về file "AppModule"
 - Học được cách import "FormModule" ở file "AppModule" để sử dụng được ngModel
 - Học được cách import bằng tay một component trên file "AppModule"
+
+4. Hiển thị list dữ liệu
+> https://angular.io/tutorial/toh-pt2
+
+Học được
+- Cách hiển thị list dữ liệu và section detail
+- Cách dùng ngFor
+- Cách dùng ngIf
+- Binding class
