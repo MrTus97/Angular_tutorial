@@ -1,0 +1,12 @@
+<h2>{{hero.name | uppercase}} Details</h2>
+<div><span>id: </span>{{hero.id}}</div>
+<div><span>name: </span>{{hero.name}}</div>
+
+<!-- Eample for two-way binding -->
+<h2>Đây là ví dụ cho việc ràng buộc 2 chiều bằng cách sử dụng [(ngModel)]</h2>
+<div>
+    <label for="name">Hero name: </label>
+    <input id="name" [(ngModel)]="hero.name" placeholder="name">
+</div>
+
+<p> Khi thay đổi dữ liệu ở input thì sẽ được update lên lại trên màn hình</p>
