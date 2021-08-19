@@ -30,3 +30,5 @@ Học được
 - Cách dùng ngFor
 - Cách dùng ngIf
 - Binding class
+
+5. Tách các component riêng biệt
